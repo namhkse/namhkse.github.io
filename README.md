@@ -2,7 +2,7 @@
 
 ## Blogs
 ##### Design patterns
-- [Creational Design: Factory Method](./_posts/designs/factory-method)
+- [Creational Design: Factory Method](/_posts/designs/factory-method)
 - [Creational Design: Abstract Factory](./_posts/designs/abstract-factory)
 - [Creational Design: Builder](./_posts/designs/builder)
 - [Creational Design: Prototype](./_posts/designs/prototype)
