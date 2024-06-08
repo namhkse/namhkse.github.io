@@ -1,5 +1,7 @@
 # Pattern name
 
+![Random image](https://pic.re/image)
+
 ## Intent
 **Pattern name** is...
 
@@ -19,5 +21,10 @@ ConcreteClass --|> Interface
 ## Applicability
 
 ## Pros and Cons
+**Pros**
+- A
+
+**Cons**
+- B
 
 ## Relations with Other Patterns
